@@ -1,0 +1,9 @@
+### Module positions - created on Thu 31 Oct 2019 20:21:58 JST ###
+### Printed by Pcbnew version kicad 5.1.4-e60b266~84~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                          PosX       PosY       Rot  Side
+R1        R         R_0402_1005Metric            164.0900   -77.2950  270.0000  top
+R2        R         R_0402_1005Metric            164.0100   -72.2100   90.0000  top
+U1        AD5254    TSSOP-20_4.4x6.5mm_P0.65mm   159.8800   -74.7700   90.0000  top
+## End
