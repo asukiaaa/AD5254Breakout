@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Potentiometer_Digital:AD5254 U1
+L AD5254Breakout-rescue:AD5254-Potentiometer_Digital U1
 U 1 1 5DAC10E7
 P 6250 3600
 F 0 "U1" H 5900 4250 50  0000 C CNN
@@ -389,4 +389,6 @@ F 3 "~" H 7050 2300 50  0001 C CNN
 $EndComp
 Text Label 7150 2300 0    50   ~ 0
 VSS
+Text Label 5750 3700 2    50   ~ 0
+AD1
 $EndSCHEMATC
