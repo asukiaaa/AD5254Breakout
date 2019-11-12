@@ -38,8 +38,8 @@
       (place J1 151490 -82650 front 90 (PN Conn_01x08))
     )
     (component Resistor_SMD:R_0402_1005Metric
-      (place R2 164010 -72210 front 90 (PN R))
-      (place R1 164090 -77295 front 270 (PN R))
+      (place R2 164010 -72210 front 90 (PN 10k))
+      (place R1 164090 -77295 front 270 (PN 10k))
     )
     (component "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
       (place JP8 168100 -73860 front 180 (PN Jumper_NO_Small))
@@ -316,10 +316,7 @@
       (pins U1-4 JP2-1 JP1-1)
     )
     (net /AD1
-      (pins JP4-1 JP3-1)
-    )
-    (net "Net-(U1-Pad16)"
-      (pins U1-16)
+      (pins U1-16 JP4-1 JP3-1)
     )
     (net /A2
       (pins J2-8 U1-11)
