@@ -1,4 +1,4 @@
-14807088903712283
+14814908980284283
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
@@ -67879,9 +67879,44 @@ varistor SIOV
 2
 2
 footprints
-PinHeader_1x08_P2.54mm_Vertical_without_lines
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
+1x05-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
 0
-8
-8
+7
+6
+footprints
+2x03_P2.54mm_Pads
+surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x03 2.54mm double row
+0
+6
+6
+footprints
+AdafruitJoystick
+
+
+0
+6
+6
+footprints
+NS-Tech_Grove_1x04_P2mm_Horizontal
+https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
+Grove-1x04
+0
+4
+4
+footprints
+PS4tJoystick
+
+
+0
+14
+9
+footprints
+SW_Center_PUSH-12mm
+SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
+tact sw push 12mm
+0
+4
+2
