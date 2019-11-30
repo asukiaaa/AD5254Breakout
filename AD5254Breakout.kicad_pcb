@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.4-e60b266~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~84~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
@@ -804,7 +804,7 @@
   (gr_text B0 (at 156.76 80.94) (layer F.SilkS) (tstamp 5DBB02B0)
     (effects (font (size 0.7 0.7) (thickness 0.175)))
   )
-  (gr_text SCA (at 159.26 80.94) (layer F.SilkS) (tstamp 5DBB02B0)
+  (gr_text SDA (at 159.26 80.94) (layer F.SilkS) (tstamp 5DBB02B0)
     (effects (font (size 0.7 0.7) (thickness 0.175)))
   )
   (gr_text SCL (at 161.76 80.94) (layer F.SilkS) (tstamp 5DBB02B0)
