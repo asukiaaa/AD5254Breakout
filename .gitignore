@@ -1,2 +1,17 @@
 gerber_to_order
 pick_and_place.zip
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+# *-cache.lib
+*-rescue.lib
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+*-backups
