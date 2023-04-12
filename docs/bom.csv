@@ -1,0 +1,5 @@
+Ref,Qnty,Value,Footprint,Description,url,memo
+"C1, ",1,0.1uf,Capacitor_SMD:C_0402_1005Metric,0402inch 0.1uf equal or more than 6V,,
+"J1, J2, ",2,Conn_01x08,footprints:PinHeader_1x08_P2.54mm_Vertical_without_lines,White pinheader 1x8,,
+"R1, R2, ",2,10k,Resistor_SMD:R_0402_1005Metric,0402inch 10K,,
+"U1, ",1,AD5254,Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm,1K AD5254,https://www.lcsc.com/product-detail/Digital-Potentiometers_Analog-Devices-AD5254BRUZ1-RL7_C649443.html,
